@@ -4,7 +4,17 @@ The proposed project activity involves construction and operation of 16 Micro an
 in the state of Arunachal Pradesh in India. Total cumulative installed capacity of the project would be 11.925 MW with 
 an annual gross energy generation of 41,785 MWh. This is equivalent to an estimated 37,607 tCO2e/year during the crediting period.
 ______________________________
-Date of UCR Issuance: 28/06/2022
+Date of UCR Issuance: 04/04/2024 ....MP: 2 (Period 04/01/2022-31/12/2022)
+
+CoUs Issued: 6633
+
+Serial Number: 0002-042131-048763-UCR-CoU-IN-091-01012022-31122022
+
+Vintage Year: 2022
+
+_____________________
+
+Date of UCR Issuance: 28/06/2022 MP1
 CoUs Issued: 42130 tCO2
 _______________
 Serial Number: 0001-000001-003087-UCR-CoU-IN-091-01012014-31122014
